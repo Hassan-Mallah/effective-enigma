@@ -1,5 +1,9 @@
 # JAICF Caila Bot template
 
+Docs: 
+- https://help.just-ai.com/docs/ru/jaicf/jaicf
+- https://help.jaicf.com/
+
 Here is a ready to use [JAICF](https://github.com/just-ai/jaicf-kotlin) bot template that can be ran locally or deployed to JAICP Cloud or Heroku server.
 
 # How to use
